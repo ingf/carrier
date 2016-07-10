@@ -1,5 +1,5 @@
 
-You are the owner of you career!
+You are the owner of your career!
 
 # 前端成长
 包含两大方面：知识和能力。
